@@ -1,0 +1,11 @@
+Project: Personal Budget Tracker App
+Status: Planning phase
+Start Date: April 2026
+
+Goals:
+- Track monthly income and expenses
+- Show spending breakdown by category
+- Send alerts when nearing budget limit
+
+Tech Stack: Python, SQLite, Tkinter (desktop GUI)
+Estimated time: 3 weeks
